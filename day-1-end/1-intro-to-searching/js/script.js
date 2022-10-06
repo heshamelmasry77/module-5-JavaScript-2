@@ -6,13 +6,16 @@
 // Google right away.
 
 //
-// And it's probably more like ten different algorithms that are being tested at any given time and things
+// And it's probably more like
+// ten different algorithms that are being tested at any given time and things
 //
 // that are being tweaked.
 //
-//  Not to mention the fact that this algorithm changes so much depending on who you are, your browsing
+// Not to mention the fact that this
+// algorithm changes so much depending on who you are, your browsing
 //
-// history, the things that you've done and the things you've clicked on.
+// history,
+// the things that you've done and the things you've clicked on.
 //
 
 // But for now, what we're focusing on are even simpler searching algorithms that are really commonly
